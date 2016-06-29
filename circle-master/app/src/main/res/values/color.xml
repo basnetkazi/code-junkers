@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#ffffff</color>
+    <color name="list_background">#5B7B70</color>
+    <color name="list_background_pressed">#EABB70</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#49a449</color>
+    <color name="counter_text_color">#0abff1</color>
+
+    <color name="room_member_unchosen">#12cd55</color>
+    <color name="room_member_chosen">#938C8C</color>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name && Activity Label -->
+    <string name="app_name">Y-CHAT</string>
+    <string name="app_title">Y-CHAT</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="action_new_room">Create Room</string>
+    <string name="action_exit">Exit</string>
+    
+    <string name="title_activity_room_member">RoomMemberActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_side_menu">SideMenuActivity</string>
+    <string name="title_activity_link">LinkActivity</string>
+    <string name="title_activity_new_user">Welcome, New User!</string>
+    
+    <string name="welcome_title"> Y-CHAT</string>
+    <string name="first_use">START USING</string>
+    <string name="name_label">Please enter a nickname</string>
+    <string name="name_hint">COOL NAME CAN BE ADDED？</string>
+    <string name="OK">OK</string>
+    <string name="search_room">SEARCH HOTSPOT</string>
+    
+    <string name="room_prefix">WIFI ESSID: </string>
+    <string name="hint_room">NAME</string>
+    <string name="hint_password">PASSWORD</string>
+
+    <string-array name="nav_drawer_items">
+        <item>MAIN PAGE</item>
+        <item>MEMBER</item>
+        <item>Activity</item>
+        <item>Documentation</item>
+        <item>Off in</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+    </array>
+    
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+	
+    <string name="title">title</string>
+    <string name="add_new_act">ADD NEW ACTIVITY</string>
+    <string name="zero">0</string>
+    <string name="title_activity_new_act">NewActActivity</string>
+    <string name="newtitle">Event name</string>
+    <string name="newdes">Activity Description</string>
+  	<string name="seltype">Select the type of activity</string>
+  	<string name="titlehint">Enter the name of the activity</string>
+  	<string name="deshint">Content input activities</string>
+  	<string name="typeinfo">type of activity</string>
+  	<string name="buttonhintok">OK</string>
+	<string-array name="ActType">
+	    <item >Sign in</item>
+	    <item >vote</item>
+	    <item >Special Events</item>
+	</string-array>
+	<string name="file_des">File_name</string>
+    <string-array name="user_chat_names">
+        <item>sea urchin</item>
+        <item>Hedgehog</item>
+        <item>hippo</item>
+        <item>Seagull</item>
+        <item>orange</item>
+    </string-array>
+    <string-array name="user_chat_signs">
+        <item>I am a sea urchin</item>
+        <item>I was a hedgehog</item>
+        <item>I am a hippopotamus</item>
+        <item>I am a seagull</item>
+        <item>I am an orange</item>
+    </string-array>
+    <array name="user_chat_avatars">
+        <item>@drawable/user_avatar_0</item>
+        <item>@drawable/user_avatar_1</item>
+        <item>@drawable/user_avatar_2</item>
+        <item>@drawable/user_avatar_3</item>
+        <item>@drawable/user_avatar_4</item>
+    </array>
+
+    <string name="about">ABOUT CIRCLE</string>
+    <string name="aboutContent">DEVELOOPED BY CODE JUNKERS</string>
+    
+</resources>
